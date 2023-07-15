@@ -1,6 +1,16 @@
 ## Javascript Color Flipper
 
-#### in this project :
+* **app.js dosyasi, color flipper orneginin basit duzey halidir**
 
-* CSS Already Prepared
-* Arrow Functions & Anonymous Functions
+#####
+
+* **hex.js dosyasi, color flipper orneginin ileri duzey ve daha kullanisli halidir**
+
+***
+
+#### Bu projede :
+
+* CSS kodları hazır alındı.
+* Arrow Functions & Anonymous Functions kullanıldı.
+
+***
