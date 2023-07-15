@@ -3,4 +3,4 @@
 #### in this project :
 
 * CSS Already Prepared
-* No Arrow Functions
+* Arrow Functions & Anonymous Functions
