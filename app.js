@@ -8,7 +8,6 @@ let colorFlipper = () => {
     btn.addEventListener("click", function(){
         // getRandomNumber fonksiyonumuzdan gelen random sayıları alıp colors dizimize index olarak verip, dizideki farklı değerleri getirelim. 
         const randomNumber = getRandomNumber();
-        console.log(randomNumber);
 
         document.body.style.backgroundColor = colors[randomNumber];
         color.textContent = colors[randomNumber];
